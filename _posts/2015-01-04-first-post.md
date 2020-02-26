@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: BattleDucks
+image: /img/battleducks.jpeg
 ---
 
-This is my first post, how exciting!
+This will contain info about the BattleDucks project
+
