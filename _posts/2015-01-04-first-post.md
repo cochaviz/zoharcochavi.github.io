@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BattleDucks
-image: /img/battleducks.jpeg
+image: /img/festive_ducky.jpeg
 ---
 
 This will contain info about the BattleDucks project
